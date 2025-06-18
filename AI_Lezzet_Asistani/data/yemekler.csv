@@ -1,0 +1,14 @@
+[
+    {
+        "isim": "Adana Kebap",
+        "ozellikler": [1, 1, 1]
+    },
+    {
+        "isim": "Mantı",
+        "ozellikler": [1, 0, 1]
+    },
+    {
+        "isim": "Sebze Çorbası",
+        "ozellikler": [0, 0, 0]
+    }
+]
